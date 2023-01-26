@@ -64,7 +64,7 @@ export const Moves: {[moveid: string]: MoveData} = {
 	accelerock: {
 		num: 709,
 		accuracy: 100,
-		basePower: 40,
+		basePower: 100,
 		category: "Physical",
 		name: "Accelerock",
 		pp: 20,
